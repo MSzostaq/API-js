@@ -1,2 +1,3 @@
-01 - XMLHttpRequest and Fetch method
-02 - Axios + React
+## 01 - XMLHttpRequest and Fetch method
+
+## 02 - Axios + React
